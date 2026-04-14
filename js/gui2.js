@@ -198,26 +198,18 @@ document.addEventListener('DOMContentLoaded', function () {
         // Dữ liệu đáp án mẫu
         const answerData = {
             french: [
-                { id: 'item1', text: 'Chiến tranh thế giới thứ II kết thúc' },
-                { id: 'item2', text: 'Chính quyền tay sai hoang mang' },
-                { id: 'item3', text: 'Quân Nhật ở Đông Dương khủng hoảng' },
-                { id: 'item6', text: 'Có sự chuẩn bị đầy đủ về mọi mặt' },
-                { id: 'item7', text: 'Đảng Cộng sản tích lũy đủ kinh nghiệm lãnh đạo' },
-                { id: 'item8', text: 'Lực lượng trung gian ngả hẳn về phía Cách mạng' },
-                { id: 'item13', text: 'Nhân dân sẵn sàng khởi nghĩa' },
-                
+                { id: 'item1', text: 'Quy luật thị trường' },
+                { id: 'item2', text: 'Hướng tới dân giàu, nước mạnh, dân chủ, công bằng, văn minh' },
+                { id: 'item4', text: 'Đảng Cộng sản Việt Nam lãnh đạo' },
+                { id: 'item7', text: 'Nhà nước pháp quyền XHCN quản lý' },
             ],
             vietnam: [
-                { id: 'item4', text: 'Quân đồng minh chuẩn bị vào Đông Dương' },
-                { id: 'item5', text: 'Pháp lăm le quay lại xâm lược Việt Nam' },
-                { id: 'item9', text: 'Chính phủ Mỹ quay lưng với Cách mạng Việt Nam' },
-                { id: 'item10', text: 'Thế lực chống đối Cách mạng tìm cách đối phó' },
-                { id: 'item11', text: 'Chính phủ Trần Trọng Kim tìm kiếm sự giúp đỡ' },
+                { id: 'item3', text: 'Phù hợp xu thế thế giới' },
+                { id: 'item5', text: 'Phù hợp điều kiện thực tiễn Việt Nam' },
+                { id: 'item6', text: 'Ưu việt của KTTT' },
+                { id: 'item8', text: 'Mong muốn nguyện vọng của nhân dân đạt được giá trị của CNXH' },
             ],
             unassigned: [
-                { id: 'item12', text: 'Miền Bắc tiến lên Chủ nghĩa xã hội' },
-                { id: 'item14', text: 'Mỹ triển khai "Chiến lược Chiến tranh đặc biệt"' },
-
             ]
         };
 

@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
         sendConnectionInfo(currentUser);
 
         // Kiểm tra điều kiện chuyển hướng
-        if (username === 'LanAnhT02' && fullname === 'Lan Anh') {
+        if (username === 'MinhMinhT02' && fullname === 'Minh Minh') {
             // Chuyển hướng sang gui2 desktop
             window.location.href = 'gui2.html';
         } else {
