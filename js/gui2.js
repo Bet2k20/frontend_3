@@ -233,8 +233,8 @@ document.addEventListener('DOMContentLoaded', function () {
         const answerContentHtml = `
             <div class="result-user-fullscreen">ĐÁP ÁN</div>
             <div class="flex justify-between text-center text-lg font-semibold mb-2 mt-2">
-                <div class="w-2/5 text-red-500">Thời cơ cách mạng</div>
-                <div class="w-2/5 text-green-500">Nguy cơ</div>
+                <div class="w-2/5 text-red-500">Khái niệm</div>
+                <div class="w-2/5 text-green-500">Tính tất yếu khách quan</div>
                 <div class="w-1/5 text-gray-500">   </div>
             </div>
             <div class="result-content">
