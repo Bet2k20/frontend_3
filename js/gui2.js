@@ -618,8 +618,8 @@ document.addEventListener('DOMContentLoaded', function () {
             const headerTitlesContainer = document.createElement('div');
             headerTitlesContainer.className = 'flex justify-between text-center text-lg font-semibold mb-2 mt-2'; // mb-2 để tạo khoảng cách dưới
             headerTitlesContainer.innerHTML = `
-                <div class="w-2/5 text-red-500">Khó khăn</div>
-                <div class="w-2/5 text-green-500">Thuận lợi</div>
+                <div class="w-2/5 text-red-500">Khái niệm</div>
+                <div class="w-2/5 text-green-500">Tính tất yếu khách quan</div>
                 <div class="w-1/5 text-gray-500 "> </div>
             `;
             // Chèn tiêu đề ngay sau tên người dùng
